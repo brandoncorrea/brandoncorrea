@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mobile Development**
 
-- ⚡ Fun fact **I like climbing trees**
+- 🌳 Fun fact **I like climbing trees** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

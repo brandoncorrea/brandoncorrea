@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/_brandoncorrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_brandoncorrea" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brandon-correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-correa" height="30" width="40" /></a>
-<a href="https://instagram.com/bwawwwan.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bwawwwan.code" height="30" width="40" /></a>
+<a href="https://instagram.com/bwawwan.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bwawwan.code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

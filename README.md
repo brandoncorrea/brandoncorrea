@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brandon!</h1>
 <h3 align="center">Christian | Programmer | I like math.</h3>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning about **Discord Bots**!
 
 - 🌳 Fun fact **I like climbing trees** 
 

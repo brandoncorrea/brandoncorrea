@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brandon!</h1>
 <h3 align="center">Christian | Programmer | I like math.</h3>
 
-- 🌱 I’m currently learning about **the F# programming language**!
+- 🌱 I’m currently exploring **TDD with PowerShell**!
 
 - 🌳 Fun fact **I like climbing trees** 
 

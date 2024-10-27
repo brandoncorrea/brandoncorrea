@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Brandon!</h1>
 <h3 align="center">Christian | Programmer | I like math.</h3>
 
-- 🌱 I’m currently exploring **The Logic Programming Paradigm**!
-- 🌳 Fun fact **I like climbing trees**
+- ☕️ I enjoy making homemade espresso drinks!
+- 🧗‍♂️ I enjoy rock climbing and bouldering in my free time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

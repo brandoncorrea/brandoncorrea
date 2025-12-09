@@ -8,11 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/bwawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandoncorrea" height="30" width="40" /></a>
-  <a href="https://instagram.com/bwawwwan.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bwawwwan.code" height="30" width="40" /></a>
+  <a href="https://instagram.com/bwawwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bwawwwan" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/brandon-correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-correa" height="30" width="40" /></a>
-  <a href="https://www.threads.net/@bwawwan" target="blank"><img align="center" src="https://www.threads.net/favicon.ico" alt="bwawwwan" height="30" width="40" /></a>
-  <a href="https://twitter.com/_brandoncorrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_brandoncorrea" height="30" width="40" /></a>
+  <a href="https://x.com/bwawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bwawan" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/13888862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13888862" height="30" width="40" /></a>
 <!-- Not In Use
 <a href="https://medium.com/@_brandoncorrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_brandoncorrea" height="30" width="40" /></a>

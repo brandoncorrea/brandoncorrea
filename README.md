@@ -4,6 +4,8 @@
 
 I just launched my portfolio site, [bwawan.com](https://bwawan.com) - check it out!
 
+I'm available for contract software development. Feel free to reach out!
+
 ### Connect with me!
 
 <!--[![Website](https://img.shields.io/badge/bwawan.com-192318?style=for-the-badge)](https://bwawan.com/)-->

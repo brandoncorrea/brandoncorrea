@@ -2,7 +2,7 @@
 
 ### Christian | Programmer | I like math.
 
-I just launched my portfolio site, [bwawan.com](https://bwawan.com) - check it out!
+Currently building Open-Source UTM software.
 
 I'm available for contract software development. Feel free to reach out!
 
